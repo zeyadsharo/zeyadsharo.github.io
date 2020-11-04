@@ -1,3 +1,2 @@
 # zeyadsharo.github.io
-hello world
-hello world 2
+this is github readme for my repasotry
